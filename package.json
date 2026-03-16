@@ -5,13 +5,11 @@
   "homepage": "https://vaishnavi1539.github.io/Notes-Project",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-"deploy": "gh-pages -d dist",
-    "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
