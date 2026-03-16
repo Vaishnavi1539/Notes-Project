@@ -1,12 +1,33 @@
-# React + Vite
+# React Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Notes Application built using React + Vite that allows users to quickly create and manage notes.  
+The app provides a clean interface to add notes and view recent notes in a card-based layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new notes with title and description
+- View recently added notes
+- Delete notes instantly
+- Clean and responsive user interface
+- Component-based React architecture
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Lucide Icons
+
+## 📚 Learning Outcome
+
+This project helped in understanding:
+
+- React component structure
+- State management using hooks
+- Handling user inputs
+- Dynamic rendering of notes
+- Deploying React projects using GitHub Pages
+
