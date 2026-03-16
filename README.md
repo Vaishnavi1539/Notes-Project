@@ -3,6 +3,9 @@
 A modern Notes Application built using React + Vite that allows users to quickly create and manage notes.  
 The app provides a clean interface to add notes and view recent notes in a card-based layout.
 
+## 🚀Live Demo
+https://vaishnavi1539.github.io/Notes-Project/
+
 ## 🚀 Features
 
 - Add new notes with title and description
