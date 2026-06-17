@@ -4,7 +4,7 @@ A modern Notes Application built using React + Vite that allows users to quickly
 The app provides a clean interface to add notes and view recent notes in a card-based layout.
 
 ## 🚀Live Demo
-notes-project-ktch-u7qn0czro-vaishnavi1539s-projects.vercel.app
+https://notes-project-ktch-u7qn0czro-vaishnavi1539s-projects.vercel.app
 
 ## 🚀 Features
 
